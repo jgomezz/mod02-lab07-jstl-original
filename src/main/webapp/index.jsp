@@ -38,6 +38,9 @@
 				<tr>
 					<td><a href="test04.jsp">test04.jsp</a></td>
 				</tr>
+				<tr>
+					<td><a href="ListaServlet">Servlet - JSTL</a></td>
+				</tr>			
 			</tbody>
 		</table>
 	</div>

@@ -1,1 +1,1 @@
-## Proyecto usando MVC : Servlet - JSP
+## Proyecto usando JSTL
